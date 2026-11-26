@@ -13,7 +13,7 @@ export default function Footer() {
         </div>
 
         <p className="text-center text-sm text-gray-500">
-          © {new Date().getFullYear()} Arisman Ismail. All rights reserved.
+          © 2026 Arisman Ismail. All rights reserved.
         </p>
 
         <a
